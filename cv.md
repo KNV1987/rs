@@ -7,3 +7,19 @@
 #### _Email:_ ***Kalibabchuk@yandex.ru.***
 
 #### _GitHub:_ **_KNV1987_**
+
+### Objective:
+
+- My goal is to grow as a developer and write useful apps.
+- Explore new technologies
+
+### Skills:
+
+- HTML, CSS.
+- JavaScript
+- React
+- Adobe Photoshop
+
+### Sample code:
+
+- Example code: my first sample project in React `https://github.com/KNV1987/demo.git`.
