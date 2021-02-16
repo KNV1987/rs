@@ -23,3 +23,17 @@
 ### Sample code:
 
 - Example code: my first sample project in React `https://github.com/KNV1987/demo.git`.
+
+### Experience:
+
+- Completed the course "JS for layout designers", Dmitry Lavrik.
+- Completed the course "React JS - путь самурая", IT-Kamasutra.
+- Completed the course "HTML and SCC geekbrains".
+
+### Education:
+
+#### 2010 Gomel State University mechanical engineer
+
+### Language:
+
+- English language A1
