@@ -68,3 +68,12 @@ li h4 {
 h2 {
   padding-left: 5%;
 }
+footer {
+  clear: both;
+  background-color: RGB(47, 79, 79);
+  padding-top: 2%;
+}
+footer img {
+  width: 10%;
+  float: right;
+}
