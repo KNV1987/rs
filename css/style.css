@@ -51,7 +51,20 @@ li h4 {
   margin: 0%;
   font-style: italic;
 }
-
+.skills {
+  color: RGB(44, 50, 61);
+  float: left;
+  width: 60%;
+  position: relative;
+  left: 60%;
+}
+.skills h1 {
+  font-style: oblique;
+  font-size: 330%;
+  padding-left: 10%;
+  margin-top: 10%;
+  margin-bottom: 25%;
+}
 h2 {
   padding-left: 5%;
 }
