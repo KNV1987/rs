@@ -9,6 +9,12 @@ a {
 }
 .div-block {
   margin: 0 auto;
+  word-break: break-all;
+}
+header {
+  color: black;
+  background-color: RGB(47, 79, 79);
+  padding: 1% 1% 1% 1%;
 }
 .div-block1 {
   float: left;
