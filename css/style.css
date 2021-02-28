@@ -9,6 +9,7 @@ a {
 }
 .div-block {
   margin: 0 auto;
+  width: 80em;
   word-break: break-all;
 }
 header {
