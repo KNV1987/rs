@@ -79,7 +79,6 @@ footer {
 }
 .footer a {
   color: black;
-}
-.footer p {
-  margin-top: 2%;
+  font-size: 150%;
+  font-style: italic;
 }
